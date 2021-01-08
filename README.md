@@ -17,4 +17,5 @@ The subject material is organized into eight modules:
 >* Standard Template Library
 >* Performance
 >* Related Topics
+
 [Lecture notes](https://ict.senecacollege.ca/~oop345/pages/content/index.html)
