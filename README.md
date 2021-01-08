@@ -3,6 +3,14 @@
 ## Fundamental (OOP244)
 This subject introduces the object-oriented paradigm in computer programming.  
 The object-oriented paradigm is used to simplify the solution of complex problems.  
+The subject material is organized as follows:
+>* Introduction
+>* Foundations
+>* Encapsulation
+>* Inheritance
+>* Polymorphism
+>* Refinements
+
 [Lecture notes](https://ict.senecacollege.ca/~oop244/pages/content/index.html)
 
 ## Advanced (OOP345)
