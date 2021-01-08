@@ -1,4 +1,4 @@
-# C_plus_plus
+# C++ language
 
 ## Fundamental (OOP244)
 This subject introduces the object-oriented paradigm in computer programming.  
